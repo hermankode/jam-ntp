@@ -5,4 +5,4 @@ tambahkan library:
 "pip install ntplib"
 
 jalankan dengan python 3 di terminal:
-python3 jam-ntp.py
+python3 jam-atom-ntp.py
